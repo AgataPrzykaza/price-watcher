@@ -24,7 +24,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install selenium
 
-    - name: Lint and basic run
+    - name: Run main.py
       run: |
-        python --version
-        python -c "print('Kod się uruchamia!')"
+        python main.py
