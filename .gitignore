@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Editor files
+.vscode/
+.idea/
+
+# Local data
+products.json
+
+# Selenium drivers
+chromedriver*
+geckodriver*
+msedgedriver*
+
+# System files
+.DS_Store
+Thumbs.db
