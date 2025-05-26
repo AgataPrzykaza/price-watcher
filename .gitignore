@@ -12,9 +12,6 @@ ENV/
 .vscode/
 .idea/
 
-# Local data
-products.json
-
 # Selenium drivers
 chromedriver*
 geckodriver*
