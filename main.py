@@ -30,7 +30,7 @@ for url in ulrs:
    if book_info is not None:
         title, price = book_info
         new_book = {
-            "name": title,
+            "name": title
             "url": url,
             "lastCheckedPrice": price
         }
